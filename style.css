@@ -1,4 +1,7 @@
 h1 {
-    color: blue;
+    color: white;
     font-size: 2em;
+}
+body {
+    background-color: black;
 }
